@@ -6,7 +6,7 @@
 This is a repository of all the projects and ideas that I beleive are especially valuable for any company looking to leverage data to make impactful decisions. 
 You will see that I have used both structured and unstructured datasets alike. 
 
-My projects cover the following areas:
+My projects broadly cover the following areas:
 
 - Customer and marketing analytics
 
