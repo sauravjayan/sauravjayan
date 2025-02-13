@@ -1,7 +1,7 @@
 **👋 Hi, I’m Saurav Jayan**
 
 
-**I am an enthusiastic, young data analytics professional with proficient skills to make sense of the plethora of data in the modern age of big data.**
+**I am an enthusiastic, data analytics professional with proficient skills to make sense of the plethora of data in the modern age of big data.**
 
 This is a repository of all the projects and ideas that I beleive are especially valuable for any company looking to leverage data to make impactful decisions. 
 You will see that I have used both structured and unstructured datasets alike. 
